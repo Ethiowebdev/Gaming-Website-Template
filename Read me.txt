@@ -1,0 +1,7 @@
+IT Assignment
+Website name: Phonex Gaming
+Name: Aslan Walid
+Class: 10-A
+R.no: 5
+Date: April 6 2024
+Website: https://ethio-web-dev.000webhostapp.com
